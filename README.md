@@ -7,4 +7,4 @@ Just a normal React JS template website.
 In the project directory, you can run:
 
 ### `npm start`
-![](images/Template.gif)
+![](Template.gif)
