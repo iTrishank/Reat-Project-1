@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### VIEW
 
-![](imagesTemplate.gif)
+![](images/Template.gif)
 ![](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
